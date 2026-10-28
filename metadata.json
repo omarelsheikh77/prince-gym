@@ -1,0 +1,6 @@
+{
+  "name": "Prince Gym",
+  "description": "The premier and largest fitness, combat sports, and aquatic facility in Sharjah. Proudly offering champion boxing, MMA, Olympic pool, and elite personalized coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
